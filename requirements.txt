@@ -4,7 +4,7 @@ charset-normalizer==2.0.6
 chart-studio==1.1.0
 click==8.0.1
 colorama==0.4.4
-
+dash==2.6.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
@@ -27,15 +27,3 @@ tenacity==8.0.1
 ua-parser==0.10.0
 urllib3==1.26.6
 Werkzeug==2.0.1
-
-scipy==1.11.4
-xarray==0.14.1
-packaging==23.2
-numpy==1.26.2
-blinker==1.7.0
-dash==1.6.1
-dash-bootstrap-components==0.7.2
-dash-core-components==1.5.1
-dash-html-components==1.0.2
-dash-renderer==1.2.1
-future==0.18.3
