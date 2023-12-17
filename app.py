@@ -9,7 +9,6 @@ from dash.dependencies import Input, Output,State
 import pandas as pd
 import base64
 import pandas as pd
-#import lorem
 import numpy as np
 from scipy.stats import norm
 import json
@@ -1082,13 +1081,10 @@ server = app.server
 #     app.run_server(port=8080)
 
 if __name__ == '__main__':
+    app.run_server(debug=True, host='0.0.0.0')
     # app.run_server(debug=True, host='0.0.0.0', port=9000)
     # app.run_server(debug=True, host='0.0.0.0', port=5000)
-    app.run_server(debug=False, host='0.0.0.0', port=5000)
-
-
-
-
+    # app.run_server(debug=False, host='0.0.0.0', port=8080)
 
 
 
