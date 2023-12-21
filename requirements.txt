@@ -7,6 +7,7 @@ colorama==0.4.4
 dash==2.6.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
+dash-bootstrap-components==0.7.2
 dash-table==5.0.0
 Flask==2.0.1
 Flask-Compress==1.10.1
@@ -27,3 +28,5 @@ tenacity==8.0.1
 ua-parser==0.10.0
 urllib3==1.26.6
 Werkzeug==2.0.1
+scipy==1.11.4
+xarray==0.14.1
